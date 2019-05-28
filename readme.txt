@@ -1,1 +1,1 @@
-LeweiClient
+乐为嵌入式平台
